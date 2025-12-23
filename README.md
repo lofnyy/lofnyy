@@ -1,16 +1,28 @@
-## Hi there 👋
+# Merhaba! Benim Adım lofnyy
 
-<!--
-**lofnyy/lofnyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım geliştiricisi olarak çeşitli projeler üzerinde çalışıyorum ve sürekli yeni teknolojiler öğrenmeye çalışıyorum.
 
-Here are some ideas to get you started:
+## Bilgilerim
+- 💻 **Programlama Dilleri**: C#, Python, JavaScript, Node.js, HTML, CSS
+- 🌱 **Öğreniyorum**: [Yazılım geliştirme ile ilgili öğrendiğin yeni şeyler varsa burada yazabilirsin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## İstatistikler
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KullanıcıAdın&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## Projelerim
+
+1. **[Proje Adı](GitHub Proje Linki)**: Kısa bir açıklama.
+2. **[Proje Adı](GitHub Proje Linki)**: Kısa bir açıklama.
+
+## İletişim
+
+- 💬 **E-posta**: [E-posta adresini buraya ekleyebilirsin]
+- 🌍 **Websitesi**: [Kendi web sitenin linki varsa buraya ekleyebilirsin]
+
+## Teknolojiler & Araçlar
+
+- **Veritabanları**: SQL, MongoDB
+- **Web Çerçeveleri**: ASP.NET, Express.js, React
+- **Versiyon Kontrol**: Git, GitHub
+
