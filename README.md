@@ -8,7 +8,7 @@ Yazılım geliştiricisi olarak çeşitli projeler üzerinde çalışıyorum ve 
 
 ## İstatistikler
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KullanıcıAdın&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lofnyy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## Projelerim
 
