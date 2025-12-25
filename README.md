@@ -8,9 +8,8 @@ Yazılım geliştiricisi olarak çeşitli projeler üzerinde çalışıyorum ve 
 
 ## İstatistikler
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lofnyy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lofnyy&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=lofnyy&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lofnyy&layout=compact&langs_count=8&theme=radical)
 
 
 ## İletişim
