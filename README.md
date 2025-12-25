@@ -4,7 +4,7 @@ Yazılım geliştiricisi olarak çeşitli projeler üzerinde çalışıyorum ve 
 
 ## Bilgilerim
 - 💻 **Programlama Dilleri**: C#, Python, JavaScript, Node.js, HTML, CSS
-- 🌱 **Öğreniyorum**: [Yazılım geliştirme ile ilgili öğrendiğin yeni şeyler varsa burada yazabilirsin]
+
 
 ## İstatistikler
 
