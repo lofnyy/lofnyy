@@ -11,15 +11,12 @@ Yazılım geliştiricisi olarak çeşitli projeler üzerinde çalışıyorum ve 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lofnyy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lofnyy&layout=compact&theme=radical)
-## Projelerim
 
-1. **[Proje Adı](GitHub Proje Linki)**: Kısa bir açıklama.
-2. **[Proje Adı](GitHub Proje Linki)**: Kısa bir açıklama.
 
 ## İletişim
 
-- 💬 **E-posta**: [E-posta adresini buraya ekleyebilirsin]
-- 🌍 **Websitesi**: [Kendi web sitenin linki varsa buraya ekleyebilirsin]
+- 💬 **E-posta**: asrin.muaz.c@gmail.com
+
 
 ## Teknolojiler & Araçlar
 
